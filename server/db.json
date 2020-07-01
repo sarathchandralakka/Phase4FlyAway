@@ -1,0 +1,79 @@
+{
+  "FlyAwayMaster": [{
+      "id": 1,
+      "FlightCode": "BoeyingBA",
+      "FlightName": "British Airways",
+      "FlightFrom": "Delhi",
+      "FlightTo": "London",
+      "FlightType": "International",
+      "FlightInterval": "Regular"
+    },
+    {
+      "id": 2,
+      "FlightCode": "BoeyingSA",
+      "FlightName": "Singapore AirLines",
+      "FlightFrom": "Chennai",
+      "FlightTo": "Singapore",
+      "FlightType": "International",
+      "FlightInterval": "Regular"
+    },
+    {
+      "id": 3,
+      "FlightCode": "BoeyingV1",
+      "FlightName": "Vistara",
+      "FlightFrom": "Bangalore",
+      "FlightTo": "Delhi",
+      "FlightType": "Domestic",
+      "FlightInterval": "Regular"
+    },
+    {
+      "id": 4,
+      "FlightCode": "BoeyingSJ",
+      "FlightName": "SpiceJet",
+      "FlightFrom": "Pune",
+      "FlightTo": "Srinagar",
+      "FlightType": "Domestic",
+      "FlightInterval": "Regular"
+    },
+    {
+      "id": 5,
+      "FlightCode": "BoeyingAA",
+      "FlightName": "American AirLines",
+      "FlightFrom": "Trivandram",
+      "FlightTo": "USA",
+      "FlightType": "International",
+      "FlightInterval": "Regular"
+    },
+    {
+      "id": 6,
+      "FlightCode": "BoeyingAirNz",
+      "FlightName": "Air New Zealand",
+      "FlightFrom": "Hyderabad",
+      "FlightTo": "New Zealand",
+      "FlightType": "International",
+      "FlightInterval": "Regular"
+    },
+    {
+      "id": 7,
+      "FlightCode": "BoeyingIndG",
+      "FlightName": "IndiGo",
+      "FlightFrom": "Bombay",
+      "FlightTo": "Bangalore",
+      "FlightType": "Domestic",
+      "FlightInterval": "Regular"
+    },
+    {
+      "id": 8,
+      "FlightCode": "BoeyingGoA",
+      "FlightName": "GoAir",
+      "FlightFrom": "Chennai",
+      "FlightTo": "Srinagar",
+      "FlightType": "Domestic",
+      "FlightInterval": "Regular"
+    }
+
+
+
+  ]
+
+}
